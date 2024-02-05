@@ -56,7 +56,7 @@ kotlin {
             implementation(projects.sample.shared)
             implementation(projects.palaceraKmpSocket)
 
-            implementation("io.ktor:ktor-network:2.3.7")
+            implementation("io.ktor:ktor-network:2.3.8")
             implementation("cafe.adriel.voyager:voyager-screenmodel:1.0.0")
             implementation("org.jetbrains.kotlinx:atomicfu:0.23.2")
         }

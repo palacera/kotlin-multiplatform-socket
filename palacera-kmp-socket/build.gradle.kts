@@ -28,7 +28,7 @@ kotlin {
     sourceSets {
         commonMain.dependencies {
             implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0-RC2")
-            implementation("io.ktor:ktor-network:2.3.7")
+            implementation("io.ktor:ktor-network:2.3.8")
             implementation("org.jetbrains.kotlinx:atomicfu:0.23.2")
         }
 
