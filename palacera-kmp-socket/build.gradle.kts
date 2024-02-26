@@ -29,7 +29,7 @@ kotlin {
 
     sourceSets {
         commonMain.dependencies {
-            implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0-RC2")
+            implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.8.0")
             implementation("io.ktor:ktor-network:2.3.7")
             implementation("org.jetbrains.kotlinx:atomicfu:0.23.2")
             implementation("co.touchlab:kermit:2.0.2")
